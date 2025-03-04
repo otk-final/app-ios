@@ -1,3 +1,4 @@
-/Pods
-/build
+node_modules/
+Pods/
+build/
 *.app
